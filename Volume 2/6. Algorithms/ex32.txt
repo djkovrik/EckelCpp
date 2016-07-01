@@ -1,0 +1,7 @@
+John Doe; age 34; phone 222 8945; salary 500$
+Michael Bay; age 31 phone 756 3920; salary 110$
+Jane Doe; age 29; phone 222 8432; salary 250$
+Samantha White; age 34; phone 222 1234; salary 100$
+Alex Petrov; age 28; phone 756 8592; salary 504$
+Jane Kelly; age 33; phone 222 6002; salary 444$
+222 1111 222 2222 222 3333

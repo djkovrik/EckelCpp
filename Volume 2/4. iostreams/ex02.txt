@@ -1,0 +1,11 @@
+2: Create a program that opens a file (the first argument
+3: on the command line) and searches it for any one of a
+4: set of words (the remaining arguments on the command line).
+6: (with line numbers) that match to the new file.
+22: 	arguments.emplace_back("command");
+23: 	arguments.emplace_back("file");
+24: 	arguments.emplace_back("=");
+27: 	int line_counter = 0;
+33: 		flag = false;
+36: 			if ( buf.find(s) != std::string::npos ) {
+37: 				flag = true;

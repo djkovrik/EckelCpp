@@ -1,0 +1,8 @@
+Write a program that accepts two command-line arguments
+(a filename and a number) and scrambles each word in the
+file by randomly switching two of its letters the number
+of times specified in the second argument. (That is, if 0
+is passed into your program from the command-line, the
+words should not be scrambled; if 1 is passed in, one
+pair of randomly-chosen letters should be swapped, for an
+input of 2, two random pairs should be swapped, etc.).

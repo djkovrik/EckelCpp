@@ -1,0 +1,11 @@
+new Child
+Widget::new: 40 bytes
+*
+delete Child
+~Widget::delete
+
+new Child[25]
+Widget::new[]: 1004 bytes
+*************************
+delete []Child
+~~~~~~~~~~~~~~~~~~~~~~~~~Widget::delete[]

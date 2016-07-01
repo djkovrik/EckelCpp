@@ -1,0 +1,2 @@
+First sentence. C++ string objects provide developers with a number 
+of great advantages over their C counterparts. Last sentence.

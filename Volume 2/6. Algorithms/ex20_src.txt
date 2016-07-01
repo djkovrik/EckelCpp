@@ -1,0 +1,10 @@
+Using the characters generate a codebook using an input file 
+given on the command line as a dictionary of words. Don’t worry 
+about stripping off the non-alphabetic characters nor worry about
+case of the words in the dictionary file. Map each permutation
+of the character string to a word such as the following: etc.
+Make sure that no duplicate codes or words exist in your code book.
+Use lexicographical_compare() to perform a sort on the codes.
+Use your code book to encode the dictionary file. Decode your
+encoding of the dictionary file, and make sure you get the same
+contents back.

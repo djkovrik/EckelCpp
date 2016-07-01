@@ -1,0 +1,14 @@
+Log has been created.
+A()
+A::f()
+A()
+B()
+C()
+D()
+D::f()
+~D()
+~C()
+~B()
+~A()
+~A()
+Log has been closed.

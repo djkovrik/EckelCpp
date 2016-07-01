@@ -1,0 +1,3 @@
+opens
+file
+pattern

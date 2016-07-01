@@ -1,0 +1,9 @@
+Write a program that takes three command-line arguments
+(a filename and two strings) and displays to the console
+all lines in the file that have both strings in the line,
+either string, only one string, or neither string, based
+on user input at the beginning of the program (the user
+will choose which matching mode to use). For all but
+the "neither string" option, highlight the input string(s)
+by placing an asterisk (*) at the beginning and end of
+each string’s occurrence when it is displayed.

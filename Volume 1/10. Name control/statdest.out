@@ -1,0 +1,8 @@
+Obj::Obj() for a
+inside main()
+Obj::Obj() for c
+Obj::Obj() for b
+leaving main()
+Obj::~Obj() for b
+Obj::~Obj() for c
+Obj::~Obj() for a

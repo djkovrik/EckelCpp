@@ -1,0 +1,7 @@
+C++ strings dynamically and transparently grow their internal data storage 
+space to accommodate increases in the size of the string data. when the data 
+in a string grows beyond the limits of the memory initially allocated to it, 
+the string object will make the memory management calls that take space from 
+and return space (to the heap). consistent allocation schemes prevent memory 
+leaks! and have the potential to be much more efficient than "roll your own" 
+memory management.

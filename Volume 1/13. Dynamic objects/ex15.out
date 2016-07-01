@@ -1,0 +1,12 @@
+new Widget
+Widget::new: 40 bytes
+*
+delete Widget
+~Widget::delete
+
+new Widget[25]
+Widget::new[]: 1004 bytes
+*************************
+delete []Widget
+~~~~~~~~~~~~~~~~~~~~~~~~~Widget::delete[]
+>>>> Pointers in vector: 0

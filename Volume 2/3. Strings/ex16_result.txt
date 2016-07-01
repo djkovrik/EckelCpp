@@ -1,0 +1,8 @@
+Weitr a pragrom that actepcs two conmamd-einl arguments
+(a fileeamn and a nembur) and scrambles hace dorw in the
+eilf by randymlo switching two of its lertets the nembur
+of tsmei specified in the sncoed argutenm. (thaT is, if 0
+is pessad onti rouy pragrom mrof the conmamd-einl, the
+wsrdo slouhd not be scrambled; if 1 is pessad in, one
+raip of randymlo-ceoshn lertets slouhd be sweppad, for an
+itpun of 2, two rondam psira slouhd be sweppad, etc.).

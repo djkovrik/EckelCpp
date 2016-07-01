@@ -1,0 +1,2 @@
+Converts all the letters in each file to uppercase.
+Searches the files for words given in the first file.

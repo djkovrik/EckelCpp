@@ -1,0 +1,22 @@
+Base1 constructor
+Member1 constructor
+Member2 constructor
+Derived1 constructor
+Member3 constructor
+Member4 constructor
+Derived2 constructor
+Derived2::f()
+Derived2 destructor
+Member4 destructor
+Member3 destructor
+Derived1 destructor
+Member2 destructor
+Member1 destructor
+Base1 destructor
+Derived2 destructor
+Member4 destructor
+Member3 destructor
+Derived1 destructor
+Member2 destructor
+Member1 destructor
+Base1 destructor
